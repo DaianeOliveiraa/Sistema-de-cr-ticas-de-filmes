@@ -1,1 +1,1 @@
-# Sistema-de-cr-ticas-de-filmes
+# Sistema-de-criticas-de-filmes
